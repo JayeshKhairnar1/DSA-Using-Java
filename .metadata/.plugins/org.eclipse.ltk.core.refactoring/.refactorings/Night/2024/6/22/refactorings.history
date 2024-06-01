@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;Coding_Day/src/sorting_algorithms&apos;&#x0D;&#x0A;- Original project: &apos;Night&apos;&#x0D;&#x0A;- Destination element: &apos;Coding_Day/src/sorting_algorithms&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     jai.mahakal.Bubble.java&#x0D;&#x0A;     jai.mahakal.Selection.java&#x0D;&#x0A;     jai.mahakal.Merge.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=Coding_Day/src&lt;sorting_algorithms" element1="/src&lt;jai.mahakal{Bubble.java" element2="/src&lt;jai.mahakal{Selection.java" element3="/src&lt;jai.mahakal{Merge.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1717233101990" units="3" version="1.0"/>
+</session>
